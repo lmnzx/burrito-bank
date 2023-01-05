@@ -1,2 +1,7 @@
-package com.lemon;public enum AccountStatus {
+package com.lemon;
+
+public enum AccountStatus {
+    OPEN,
+    CLOSED,
+    OVERDRAWN
 }
